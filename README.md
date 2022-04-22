@@ -1,8 +1,8 @@
 # Surfs_Up
 
-## Purpose/Objective:
+## Objective:
 
-The objective was to compare the temperature statistics for June and December and determine whether an ice cream business would be sustainable throughout the year in Oahu. SQL alchemy (with SQLite) was used along with pandas to gain insights.  
+The objective was to compare the temperature statistics for June and December and determine whether an ice cream business would be sustainable throughout the year in Oahu. SQL alchemy (with SQLite) was used along with pandas to gain insights.
 
 Note: This readme covers SurfsUp_Challenge.ipynb. 
 
